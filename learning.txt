@@ -1,0 +1,1 @@
+I learnt how to create a repo, create and commit files, make branches, merge those branches using pull requests, fork other repos, and finally clone repos unto my local computer.
